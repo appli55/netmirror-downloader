@@ -11,13 +11,13 @@ Based on Android.
 
 ## Download
 
-<a href='https://raw.githubusercontent.com/appli55/netmirror_downloader/main/file/netmdl.apk'>Download App</a>
+<a href='https://raw.githubusercontent.com/appli55/netmirror-downloader/main/file/netmdl.apk'>Download App</a>
 
 ## Screenshots
 
-![screenshot 1](https://raw.githubusercontent.com/appli55/netmirror_downloader/main/screenshots/1.jpg)
+![screenshot 1](https://raw.githubusercontent.com/appli55/netmirror-downloader/main/screenshots/1.jpg)
 
-![screenshot 2](https://raw.githubusercontent.com/appli55/netmirror_downloader/main/screenshots/2.jpg)
+![screenshot 2](https://raw.githubusercontent.com/appli55/netmirror-downloader/main/screenshots/2.jpg)
 
-![screenshot 3](https://raw.githubusercontent.com/appli55/netmirror_downloader/main/screenshots/3.jpg)
+![screenshot 3](https://raw.githubusercontent.com/appli55/netmirror-downloader/main/screenshots/3.jpg)
 
