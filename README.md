@@ -11,7 +11,7 @@ Based on Android.
 
 ## Download
 
-<a href='https://raw.githubusercontent.com/appli55/netmirror-downloader/main/file/netmdl.apk'>Download App</a>
+<a href='https://raw.githubusercontent.com/appli55/netmirror-downloader/main/file/netmdl-2.0.0.apk'>Download App -> netmdl-2.0.0.apk</a>
 
 ## Screenshots
 
